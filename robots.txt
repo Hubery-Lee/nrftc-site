@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rmap.nrftc.top/sitemap.xml
